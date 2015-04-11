@@ -97,7 +97,29 @@ th{
 input,select,textarea {border-radius: 6px;
 	border: 2px solid black;}
 #esqDer{border-top-right-radius:6px;}
+
 #esqIzq{border-top-left-radius:6px;}
+
 .aLaDer{text-align: right; }
-#azul{color:white;background-color: blue;}
-.colsp{colspan: 3}
+
+#azul{color:white;
+	background-color: blue;}
+
+#logo{	height: 4%;
+ 		width: 4%;
+		
+	}
+
+#centro{
+			text-align: center;
+		}
+		
+#fija{postion:fixed;
+		padding-top: 300px;
+		padding-left: 5px;
+		border: solid black 5px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		margin-left: 150;
+		background-color: #707070;
+		}
